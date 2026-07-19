@@ -19,7 +19,7 @@
 ---                                      
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iHarishJaypal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iHarishJaypal/HarishJaypal&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iHarishJaypal&layout=compact&theme=radical)
 
