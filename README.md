@@ -9,7 +9,7 @@
 * 🔭 Currently working on: Web Projects    
 * 🌱 Learning: Python, AI, LLMs   
 * 🎯 Goal: Become a top AI Developer  
-* ⚡ Fun fact: I build things faster than I explain them 😎                  
+* ⚡ Fun fact: I build things faster than I explain them 😎                   
  ## 🛠️ Tech Stack                        
                                                              
 * 💻 Languages: PHP, HTML, CSS, JavaScript                            
